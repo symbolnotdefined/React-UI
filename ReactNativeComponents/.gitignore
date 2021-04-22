@@ -1,7 +1,5 @@
-# OSX
-#
-/._.DS_Store
-/._index.js
+._.DS_Store
+._index.js
 sonarqube-scanner/
 /.dockerignore
 /.gitattributes
