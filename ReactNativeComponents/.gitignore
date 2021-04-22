@@ -2,8 +2,9 @@
 */._index.js
 */.dockerignore
 */.gitattributes
-*/dockerfile
+/dockerfile
 sonarqube-scanner
+
 
 # Xcode
 #
