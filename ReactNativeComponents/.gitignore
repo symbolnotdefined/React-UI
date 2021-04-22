@@ -1,11 +1,11 @@
 # OSX
 #
-./._.DS_Store
-./._index.js
-./sonarqube-scanner
-./.dockerignore
-./.gitattributes
-./dockerfile
+._.DS_Store
+._index.js
+sonarqube-scanner
+.dockerignore
+.gitattributes
+dockerfile
 
 # Xcode
 #
