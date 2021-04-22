@@ -3,7 +3,7 @@
 */.dockerignore
 */.gitattributes
 */dockerfile
-sonarqube-scanner/
+sonarqube-scanner
 
 
 # Xcode
