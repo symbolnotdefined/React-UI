@@ -2,7 +2,7 @@
 #
 /._.DS_Store
 /._index.js
-/sonarqube-scanner
+sonarqube-scanner/
 /.dockerignore
 /.gitattributes
 /dockerfile
